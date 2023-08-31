@@ -2140,7 +2140,112 @@
           "hasAvy": true
         }
       ],
-      "isClosed": true
+      "isClosed": true,
+      "results": [
+        {
+          "mark": "19.80",
+          "place": 1,
+          "notes": "",
+          "entrant": {
+            "firstName": "Noah",
+            "lastName": "Lyles",
+            "id": "14536762",
+            "pb": "19.31",
+            "sb": "19.47",
+            "nat": "USA",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "19.87",
+          "place": 2,
+          "notes": "",
+          "entrant": {
+            "firstName": "Erriyon",
+            "lastName": "Knighton",
+            "id": "14897541",
+            "pb": "19.49",
+            "sb": "19.72",
+            "nat": "USA",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "19.94",
+          "place": 3,
+          "notes": "",
+          "entrant": {
+            "firstName": "Zharnel",
+            "lastName": "Hughes",
+            "id": "14414524",
+            "pb": "19.73",
+            "sb": "19.73",
+            "nat": "GBR",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "19.98",
+          "place": 4,
+          "notes": "",
+          "entrant": {
+            "firstName": "Kenneth",
+            "lastName": "Bednarek",
+            "id": "14715244",
+            "pb": "19.68",
+            "sb": "19.82",
+            "nat": "USA",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "20.26",
+          "place": 5,
+          "notes": "",
+          "entrant": {
+            "firstName": "Andre",
+            "lastName": "de Grasse",
+            "id": "14535607",
+            "pb": "19.62",
+            "sb": "20.01",
+            "nat": "CAN",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "20.39",
+          "place": 6,
+          "notes": "",
+          "entrant": {
+            "firstName": "Aaron",
+            "lastName": "Brown",
+            "id": "14366482",
+            "pb": "19.95",
+            "sb": "20.00",
+            "nat": "CAN",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "20.43",
+          "place": 7,
+          "notes": ""
+        },
+        {
+          "mark": "20.66",
+          "place": 8,
+          "notes": "",
+          "entrant": {
+            "firstName": "William",
+            "lastName": "Reais",
+            "id": "14740317",
+            "pb": "20.24",
+            "sb": "20.38",
+            "nat": "SUI",
+            "hasAvy": true
+          }
+        }
+      ]
     }
   }
 }
