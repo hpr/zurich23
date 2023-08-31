@@ -1441,7 +1441,104 @@
           "hasAvy": true
         }
       ],
-      "isClosed": true
+      "isClosed": true,
+      "results": [
+        {
+          "mark": "21.82",
+          "place": 1,
+          "notes": "",
+          "entrant": {
+            "firstName": "Shericka",
+            "lastName": "Jackson",
+            "id": "14325599",
+            "pb": "21.41",
+            "sb": "21.41",
+            "nat": "JAM",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "22.25",
+          "place": 2,
+          "notes": "",
+          "entrant": {
+            "firstName": "Daryll",
+            "lastName": "Neita",
+            "id": "14476603",
+            "pb": "22.16",
+            "sb": "22.16",
+            "nat": "GBR",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "22.33",
+          "place": 3,
+          "notes": "",
+          "entrant": {
+            "firstName": "Kayla",
+            "lastName": "White",
+            "id": "14642681",
+            "pb": "22.01",
+            "sb": "22.01",
+            "nat": "USA",
+            "hasAvy": true,
+            "team": "North Carolina A&T Aggies"
+          }
+        },
+        {
+          "mark": "22.46",
+          "place": 4,
+          "notes": ""
+        },
+        {
+          "mark": "22.57",
+          "place": 5,
+          "notes": "",
+          "entrant": {
+            "firstName": "Twanisha",
+            "lastName": "Terry",
+            "id": "14553598",
+            "pb": "22.17",
+            "sb": "22.17",
+            "nat": "USA",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "22.65",
+          "place": 6,
+          "notes": "",
+          "entrant": {
+            "firstName": "Anthonique",
+            "lastName": "Strachan",
+            "id": "14368117",
+            "pb": "22.15",
+            "sb": "22.15",
+            "nat": "BAH",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "22.78",
+          "place": 7,
+          "notes": ""
+        },
+        {
+          "mark": "22.94",
+          "place": 8,
+          "notes": "",
+          "entrant": {
+            "firstName": "Tamara",
+            "lastName": "Clark",
+            "id": "14596381",
+            "pb": "21.92",
+            "sb": "22.02",
+            "nat": "USA",
+            "hasAvy": true
+          }
+        }
+      ]
     },
     "5000m Men": {
       "date": "2023-08-31T21:10",
