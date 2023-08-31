@@ -280,7 +280,126 @@
           "hasAvy": true
         }
       ],
-      "isClosed": true
+      "isClosed": true,
+      "results": [
+        {
+          "mark": "10.88",
+          "place": 1,
+          "notes": "",
+          "entrant": {
+            "firstName": "Sha'Carri",
+            "lastName": "Richardson",
+            "id": "14717691",
+            "pb": "10.65",
+            "sb": "10.65",
+            "nat": "USA",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "11.00",
+          "place": 2,
+          "notes": "",
+          "entrant": {
+            "firstName": "Natasha",
+            "lastName": "Morrison",
+            "id": "14285826",
+            "pb": "10.87",
+            "sb": "10.98",
+            "nat": "JAM",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "11.00",
+          "place": 3,
+          "notes": "",
+          "entrant": {
+            "firstName": "Elaine",
+            "lastName": "Thompson-Herah",
+            "id": "14285956",
+            "pb": "10.54",
+            "sb": "11.06",
+            "nat": "JAM",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "11.08",
+          "place": 4,
+          "notes": "",
+          "entrant": {
+            "firstName": "Mujinga",
+            "lastName": "Kambundji",
+            "id": "14300897",
+            "pb": "10.89",
+            "sb": "11.04",
+            "nat": "SUI",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "11.12",
+          "place": 5,
+          "notes": "",
+          "entrant": {
+            "firstName": "Shashalee",
+            "lastName": "Forbes",
+            "id": "14574709",
+            "pb": "10.96",
+            "sb": "10.96",
+            "nat": "JAM",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "11.13",
+          "place": 6,
+          "notes": "",
+          "entrant": {
+            "firstName": "Twanisha",
+            "lastName": "Terry",
+            "id": "14553598",
+            "pb": "10.82",
+            "sb": "10.99",
+            "nat": "USA",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "11.14",
+          "place": 7,
+          "notes": "",
+          "entrant": {
+            "firstName": "Zoe",
+            "lastName": "Hobbs",
+            "id": "14499691",
+            "pb": "10.96",
+            "sb": "10.96",
+            "nat": "NZL",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "11.23",
+          "place": 8,
+          "notes": "",
+          "entrant": {
+            "firstName": "Tamara",
+            "lastName": "Clark",
+            "id": "14596381",
+            "pb": "10.88",
+            "sb": "10.98",
+            "nat": "USA",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "11.39",
+          "place": 9,
+          "notes": ""
+        }
+      ]
     },
     "3000m Steeplechase Women": {
       "date": "2023-08-31T20:23",
