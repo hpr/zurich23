@@ -1680,7 +1680,181 @@
           "hasAvy": true
         }
       ],
-      "isClosed": true
+      "isClosed": true,
+      "results": [
+        {
+          "mark": "12:46.91",
+          "place": 1,
+          "notes": "",
+          "entrant": {
+            "firstName": "Yomif",
+            "lastName": "Kejelcha",
+            "id": "14594967",
+            "pb": "12:41.73",
+            "sb": "12:41.73",
+            "nat": "ETH",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "12:54.17",
+          "place": 2,
+          "notes": "",
+          "entrant": {
+            "firstName": "Selemon",
+            "lastName": "Barega",
+            "id": "14751317",
+            "pb": "12:43.02",
+            "sb": "12:56.18",
+            "nat": "ETH",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "12:54.49",
+          "place": 3,
+          "notes": "",
+          "entrant": {
+            "firstName": "Grant",
+            "lastName": "Fisher",
+            "id": "14591210",
+            "pb": "12:46.96",
+            "sb": "12:56.99",
+            "nat": "USA",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "12:55.88",
+          "place": 4,
+          "notes": "",
+          "entrant": {
+            "firstName": "Luis",
+            "lastName": "Grijalva",
+            "id": "14749285",
+            "pb": "12:52.97",
+            "sb": "12:52.97",
+            "nat": "GUA",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "13:07.02",
+          "place": 5,
+          "notes": "",
+          "entrant": {
+            "firstName": "Dominic Lokinyomo",
+            "lastName": "Lobalu",
+            "id": "14792211",
+            "pb": "12:52.15",
+            "sb": "13:24.28",
+            "nat": "SSD",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "13:24.61",
+          "place": 6,
+          "notes": ""
+        },
+        {
+          "mark": "13:27.13",
+          "place": 7,
+          "notes": "",
+          "entrant": {
+            "firstName": "Jonas",
+            "lastName": "Raess",
+            "id": "14427180",
+            "pb": "13:13.83",
+            "sb": "13:13.83",
+            "nat": "SUI",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "13:29.23",
+          "place": 8,
+          "notes": ""
+        },
+        {
+          "mark": "13:38.86",
+          "place": 9,
+          "notes": ""
+        },
+        {
+          "place": null,
+          "notes": "DNF",
+          "entrant": {
+            "firstName": "Andreas",
+            "lastName": "Almgren",
+            "id": "14460738",
+            "pb": "13:01.70",
+            "sb": "13:25.70",
+            "nat": "SWE",
+            "hasAvy": true
+          }
+        },
+        {
+          "place": null,
+          "notes": "DNF"
+        },
+        {
+          "place": null,
+          "notes": "DNF"
+        },
+        {
+          "place": null,
+          "notes": "DNF",
+          "entrant": {
+            "firstName": "William",
+            "lastName": "Kincaid",
+            "id": "14493258",
+            "pb": "12:54.40",
+            "sb": "12:54.40",
+            "nat": "USA",
+            "hasAvy": true
+          }
+        },
+        {
+          "place": null,
+          "notes": "DNF",
+          "entrant": {
+            "firstName": "Lamecha",
+            "lastName": "Girma",
+            "id": "14848765",
+            "pb": null,
+            "sb": null,
+            "nat": "ETH",
+            "hasAvy": true
+          }
+        },
+        {
+          "place": null,
+          "notes": "DNF",
+          "entrant": {
+            "firstName": "Kyumbe",
+            "lastName": "Munguti",
+            "id": "14849576",
+            "pb": null,
+            "sb": null,
+            "nat": "KEN",
+            "hasAvy": true
+          }
+        },
+        {
+          "place": null,
+          "notes": "DNF",
+          "entrant": {
+            "firstName": "Mounir",
+            "lastName": "Akbache",
+            "id": "14182819",
+            "pb": null,
+            "sb": null,
+            "nat": "FRA",
+            "hasAvy": false
+          }
+        }
+      ]
     },
     "100m Hurdles Women": {
       "date": "2023-08-31T21:33",
